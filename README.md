@@ -1,5 +1,5 @@
 # Weather App
-This is a live challenge project for klimbb.
+This is a live challenge project for TPC
 
 ## Getting Started
 
